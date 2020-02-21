@@ -1,17 +1,17 @@
 {
-  "name": "web-server",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node src/app.js"
-  },
-  "keywords": [],
-  "author": "Max",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "hbs": "^4.0.1",
-    "request": "^2.88.0"
-  },
-  "description": ""
+    "name": "web-server",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/app.js"
+    },
+    "keywords": [],
+    "author": "Max",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "handlebars": "^4.7.3",
+        "request": "^2.88.0"
+    },
+    "description": ""
 }
